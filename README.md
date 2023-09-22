@@ -1,18 +1,22 @@
 # RoMSD
 Bachelor's project of Innopolis University
 
-#### <span class='orange'>Components:</span>
+### Components:
 
-##### <span class='orange'>Camera</span> 
+##### Camera
 
 Type: Zed 2 stereo camera
+
 Link: https://www.stereolabs.com/zed-2/
+
 Weight: 166g
 
 ##### <span class='orange'>Computer</span>
 
 Type: Nvidia Jetson nano
+
 Link: https://www.nvidia.com/ru-ru/autonomous-machines/embedded-systems/jetson-nano/
+
 Weight: -
 
 ##### <span class='orange'>Motor</span>
