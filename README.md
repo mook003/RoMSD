@@ -1,2 +1,2 @@
 # RoMSD
-Bachelor's project of innopolis University
+Bachelor's project of Innopolis University
